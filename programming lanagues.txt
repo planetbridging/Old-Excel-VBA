@@ -1,0 +1,12 @@
+ActionScript 2 and 3
+C
+C++
+C#
+Some Assembly
+Java, Jquery
+Javascript
+Php
+SQL
+Python
+Html,Css,Xml,Jason
+Visual Basic, .Net
